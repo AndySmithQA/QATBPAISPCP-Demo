@@ -1,0 +1,9 @@
+Source record,Venue,Subject,Supplied fact,Approval status,Information owner,Review note
+Riverside foyer access,Riverside,Foyer,Step-free access is available from the main entrance to the foyer.,Approved,Venue manager,No unresolved conflict recorded
+Riverside Screen 1 access,Riverside,Screen 1,A step-free route is available from the foyer to Screen 1.,Approved,Venue manager,No unresolved conflict recorded
+Riverside Screen 3 venue record,Riverside,Screen 3,Screen 3 is reached by stairs from the foyer.,Approved,Venue manager,Conflicts with Riverside Screen 3 visitor page; do not resolve by guessing
+Riverside Screen 3 visitor page,Riverside,Screen 3,Step-free access is available to Screen 3.,Approved,Visitor information owner,Conflicts with Riverside Screen 3 venue record; do not resolve by guessing
+Riverside Moon Harbour listing,Riverside,Screen 1,Moon Harbour is listed for 15 November 2026 at 18:30 in Screen 1.,Approved,Programme manager,Static teaching snapshot; no seat availability is supplied
+Booking change route,All venues,Bookings,Staff handle booking change requests through the visitor service team. No change entitlement is stated in this snapshot.,Approved,Visitor service manager,No booking-system access is authorised
+Refund decision route,All venues,Refunds,The visitor service team reviews refund requests. This snapshot gives no entitlement or promised outcome.,Approved,Visitor service manager,No refund decision or payment action is authorised
+Old generic access advert,All venues,Access,Every screen has step-free access.,Archived,Marketing manager,Excluded from approved evidence selection; retained to expose source filtering
